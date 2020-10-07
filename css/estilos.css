@@ -51,6 +51,15 @@ body{
     font-size: 20px;
 }
 
+#post{
+    padding: 1em;
+    background: #fff;
+}
+
+#post p{
+    margin: 10px auto;
+}
+
 #footer{
     background: #777;
     color: #fff;
